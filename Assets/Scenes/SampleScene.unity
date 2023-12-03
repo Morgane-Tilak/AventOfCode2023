@@ -339,6 +339,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   InputTextDay1: {fileID: 4900000, guid: 476764345cbbaa4458eb716d340cbd0d, type: 3}
+  InputTextDay2: {fileID: 4900000, guid: a7f2281c788cd2346b61c477c0743689, type: 3}
+  InputTextDay3: {fileID: 4900000, guid: ca51498dfb310b14cacc1adf257d84c1, type: 3}
 --- !u!4 &2089006418
 Transform:
   m_ObjectHideFlags: 0
