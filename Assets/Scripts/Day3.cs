@@ -34,6 +34,11 @@ namespace DefaultNamespace
                         currentIsPart = false;
                     }
                 }
+                
+                if (currentIsPart)
+                {
+                    numberParted.Add(int.Parse(currentNumber)); 
+                }
                 currentNumber = String.Empty;
                 currentIsPart = false;
             }
